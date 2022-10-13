@@ -138,16 +138,16 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#e3e1be",
     "PRIMARY_DARK_500": "#e3de74",
-    "PRIMARY_DARK_600": "#0d0212",
+    "PRIMARY_DARK_600": "#121002",
     "PRIMARY_DARK_630": "#1a1b21",
     "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#0d0212",
-    "BRAND_NEW": "#a674e3",
-    "STATUS_RED": "#a674e3",
-    "STATUS_GREEN_600": "#a674e3"
+    "PRIMARY_DARK_800": "#121002",
+    "BRAND_NEW": "#e2d473",
+    "STATUS_RED": "#e2d473",
+    "STATUS_GREEN_600": "#e2d473"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#0d0212"
+    "CHAT_GREY": "#121002"
   },
   "background": {
     "blur": 0.1,

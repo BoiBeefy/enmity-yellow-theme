@@ -98,7 +98,7 @@
       "hsla(240, 7.7%, 2.5%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2a1858",
+      "#585818",
       "hsla(217, 7.6%, 33.5%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -106,7 +106,7 @@
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2a1858",
+      "#585818",
       "#cccccc"
     ],
     "SCROLLBAR_AUTO_TRACK": [
